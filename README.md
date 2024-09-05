@@ -1,5 +1,5 @@
 # DMNAG_GaoJiajie
-DMNAG graph neural network method for potential disease-metabolite associations prediction
+Prediction of Disease-Metabolite Associations Based on Neighborhood Aggregation Graph Transformer
 
 # DMNAG for disease-metabolite associations prediction
 
